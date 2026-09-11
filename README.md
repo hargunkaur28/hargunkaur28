@@ -270,9 +270,9 @@ hargun@dev-core:~$ cat current_focus.json
 <h3>📊 Engineering Telemetry & Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hargunkaur28&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F5D4&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0&icon_color=F72585" width="48.5%" alt="Hargun's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hargunkaur28&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F5D4&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0&icon_color=F72585" width="48.5%" alt="Hargun's GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hargunkaur28&layout=compact&theme=tokyonight&hide_border=false&border_color=7209B7&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0" width="48.5%" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hargunkaur28&layout=compact&theme=tokyonight&hide_border=false&border_color=7209B7&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0" width="48.5%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -311,7 +311,7 @@ hargun@dev-core:~$ cat current_focus.json
   <a href="https://github.com/hargunkaur28">
     <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" />
   </a>&nbsp;&nbsp;
-  <a href="https://project-eklavya.vercel.app/" target="_blank">
+  <a href="https://hargun-portfolio-web.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio_Demo-00F5D4?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Demo" />
   </a>
 </p>
