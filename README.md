@@ -31,7 +31,7 @@
   <a href="https://github.com/hargunkaur28">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" />
   </a>&nbsp;
-  <a href="https://project-eklavya.vercel.app/" target="_blank">
+  <a href="https://hargun-portfolio-web.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Featured_App-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Demo" />
   </a>
 </p>
