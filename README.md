@@ -266,17 +266,11 @@ hargun@dev-core:~$ cat current_focus.json
 
 <br />
 
-<!-- 8. GITHUB & CODING ANALYTICS -->
-<h3>📊 Engineering Telemetry & Activity</h3>
+<!-- 8. MOST USED LANGUAGES & TELEMETRY -->
+<h3>📊 Most Used Languages & Codebase Distribution</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=hargunkaur28&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F5D4&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0&icon_color=F72585" width="48.5%" alt="Hargun's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hargunkaur28&layout=compact&theme=tokyonight&hide_border=false&border_color=7209B7&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0" width="48.5%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hargunkaur28&theme=tokyonight&hide_border=false&border_color=00F5D4&background=0D1117&ring=00F5D4&fire=F72585&currStreakNum=00F5D4" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hargunkaur28&layout=compact&theme=tokyonight&hide_border=false&border_color=00F5D4&bg_color=0D1117&title_color=00F5D4&text_color=E2E8F0" width="60%" alt="Top Languages" />
 </p>
 
 <br />
